@@ -1,8 +1,8 @@
-                                                            Benjamin Otieno
+Author: Benjamin Otieno
 
-# Frontend - **kutab** React App
+# React Frontend - **kutab App**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**kutab App** is a single page web-app developed for readers to find their favourite books, save them to a personal collection, and record their notes on each individual book. The application was created using React Redux on the frontend and  Rails for backend API. 
 
 
 ## Installation
