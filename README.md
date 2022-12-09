@@ -4,6 +4,8 @@ Author: Benjamin Otieno
 
 **kutab App** is a single page web-app developed for readers to find their favourite books, save them to a personal collection, and record their notes on each individual book. The application was created using React Redux on the frontend and  Rails for backend API. 
 
+Frontend live link  https://kutab-app-frontend-9q288orgm-benjaminotieno.vercel.app/
+
 
 ## Installation
 cd into this frontend directory and run `$ npm install` to install node modules and dependencies in the *package.json* file.
