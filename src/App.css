@@ -1,5 +1,5 @@
 .App{
-    background-image: url(/home/sheikh/Development/front-kutab/public/background-image.jpg);
+    background-image: url(/public/background-image.jpg);
     background-size: cover;
     height:auto;
   }
