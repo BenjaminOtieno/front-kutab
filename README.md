@@ -6,6 +6,8 @@ Author: Benjamin Otieno
 
 Frontend live link  https://kutab-app-frontend-9q288orgm-benjaminotieno.vercel.app/
 
+Backend repository link https://github.com/BenjaminOtieno/back-kutab   
+
 
 ## Installation
 cd into this frontend directory and run `$ npm install` to install node modules and dependencies in the *package.json* file.
