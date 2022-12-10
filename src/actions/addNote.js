@@ -11,7 +11,7 @@ export const addNote = (noteInput) => {
 
 
     return (dispatch) => {
-        fetch('https://kutabbackenddeploy-production.up.railway.app/api/v1/notes/', obj)
+        fetch('http://localhost:3000/api/v1/notes/', obj)
         .then(resp => resp.json())
         .then(data => {
             dispatch({ type: 'ADD_NOTE', note: data })
