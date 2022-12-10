@@ -6,6 +6,8 @@ Author: Benjamin Otieno
 
 Frontend live link  https://kutab-app-frontend-9q288orgm-benjaminotieno.vercel.app/
 
+Backend live link  https://kutabbackenddeploy-production.up.railway.app/
+
 Backend repository link https://github.com/BenjaminOtieno/back-kutab   
 
 
